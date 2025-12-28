@@ -220,7 +220,7 @@ nav ul li a:hover {
         width: 15px;
         height: 10px;
         position: absolute;
-        right: 8%;
+        right: 10%;
     }
 
 
@@ -364,4 +364,5 @@ nav ul li a:hover {
         rotate: -180deg;
         transition: .5s;
     }
+
 }
