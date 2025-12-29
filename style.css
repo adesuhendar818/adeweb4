@@ -290,7 +290,7 @@ nav ul li a:hover {
         width: 15px;
         height: 10px;
         position: absolute;
-        right: 11%;
+        right: 37px;
     }
 
 
@@ -325,7 +325,7 @@ nav ul li a:hover {
         width: 15px;
         height: 10px;
         position: absolute;
-        right: 11%;
+        right: 37px;
     }
 
     /* Animation Menu Overlay */
@@ -366,6 +366,7 @@ nav ul li a:hover {
     }
 
 }
+
 
 
 
